@@ -1,1 +1,4 @@
 #inicijalni
+
+
+#Powershell je cool
